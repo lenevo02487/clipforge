@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+clips/
+*.mp4
+!docs-demo-frame.jpg
+dist/
+*.egg-info/
