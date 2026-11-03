@@ -1,0 +1,5 @@
+# clipforge batch segments — copy to segments.txt and edit
+# format: <start> <duration> [name]     times: seconds, mm:ss, or hh:mm:ss
+50       28      hook_fight
+1:35     30      finisher
+2:10     25      reveal
